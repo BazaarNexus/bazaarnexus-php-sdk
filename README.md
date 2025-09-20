@@ -12,11 +12,7 @@ This SDK unifies both **merchant (account)** and **customer** authentication flo
 
 ## Installation
 
-composer require guzzlehttp/guzzle
-
-Clone or include this repository into your project. Autoload with Composer:
-
-require __DIR__ . '/vendor/autoload.php';
+composer require bazaarnexus/php-sdk
 
 ## Authentication Flow
 
